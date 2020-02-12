@@ -1,0 +1,41 @@
+html {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+
+a {}
+
+header {}
+
+nav {}
+
+.button {}
+
+#home {}
+
+#my-journey {}
+
+#timeline {}
+
+.post {}
+
+.post .content {}
+
+.post .type {}
+
+.post .type--education {}
+
+.post .type--professionel {}
+
+.post .year {}
+
+
